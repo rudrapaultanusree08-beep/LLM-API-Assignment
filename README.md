@@ -1,4 +1,4 @@
-# LLM-API-AssignmentLLM API Assignment
+# LLM-API-Assignment
 
 Aim
 
